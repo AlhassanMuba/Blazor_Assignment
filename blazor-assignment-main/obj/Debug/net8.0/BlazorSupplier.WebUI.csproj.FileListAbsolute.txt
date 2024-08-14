@@ -1,0 +1,61 @@
+C:\Users\Righteous\Documents\ClassLabProject-master\BlazorSupplier.WebUI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Righteous\Documents\ClassLabProject-master\BlazorSupplier.WebUI\bin\Debug\net8.0\appsettings.json
+C:\Users\Righteous\Documents\ClassLabProject-master\BlazorSupplier.WebUI\bin\Debug\net8.0\BlazorSupplier.WebUI.staticwebassets.runtime.json
+C:\Users\Righteous\Documents\ClassLabProject-master\BlazorSupplier.WebUI\bin\Debug\net8.0\BlazorSupplier.WebUI.exe
+C:\Users\Righteous\Documents\ClassLabProject-master\BlazorSupplier.WebUI\bin\Debug\net8.0\BlazorSupplier.WebUI.deps.json
+C:\Users\Righteous\Documents\ClassLabProject-master\BlazorSupplier.WebUI\bin\Debug\net8.0\BlazorSupplier.WebUI.runtimeconfig.json
+C:\Users\Righteous\Documents\ClassLabProject-master\BlazorSupplier.WebUI\bin\Debug\net8.0\BlazorSupplier.WebUI.dll
+C:\Users\Righteous\Documents\ClassLabProject-master\BlazorSupplier.WebUI\bin\Debug\net8.0\BlazorSupplier.WebUI.pdb
+C:\Users\Righteous\Documents\ClassLabProject-master\BlazorSupplier.WebUI\obj\Debug\net8.0\BlazorSupplier.WebUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Righteous\Documents\ClassLabProject-master\BlazorSupplier.WebUI\obj\Debug\net8.0\BlazorSupplier.WebUI.AssemblyInfoInputs.cache
+C:\Users\Righteous\Documents\ClassLabProject-master\BlazorSupplier.WebUI\obj\Debug\net8.0\BlazorSupplier.WebUI.AssemblyInfo.cs
+C:\Users\Righteous\Documents\ClassLabProject-master\BlazorSupplier.WebUI\obj\Debug\net8.0\BlazorSupplier.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\Righteous\Documents\ClassLabProject-master\BlazorSupplier.WebUI\obj\Debug\net8.0\BlazorSupplier.WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Righteous\Documents\ClassLabProject-master\BlazorSupplier.WebUI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Righteous\Documents\ClassLabProject-master\BlazorSupplier.WebUI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Righteous\Documents\ClassLabProject-master\BlazorSupplier.WebUI\obj\Debug\net8.0\staticwebassets\msbuild.BlazorSupplier.WebUI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Righteous\Documents\ClassLabProject-master\BlazorSupplier.WebUI\obj\Debug\net8.0\staticwebassets\msbuild.build.BlazorSupplier.WebUI.props
+C:\Users\Righteous\Documents\ClassLabProject-master\BlazorSupplier.WebUI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BlazorSupplier.WebUI.props
+C:\Users\Righteous\Documents\ClassLabProject-master\BlazorSupplier.WebUI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BlazorSupplier.WebUI.props
+C:\Users\Righteous\Documents\ClassLabProject-master\BlazorSupplier.WebUI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Righteous\Documents\ClassLabProject-master\BlazorSupplier.WebUI\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\Righteous\Documents\ClassLabProject-master\BlazorSupplier.WebUI\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\Righteous\Documents\ClassLabProject-master\BlazorSupplier.WebUI\obj\Debug\net8.0\scopedcss\bundle\BlazorSupplier.WebUI.styles.css
+C:\Users\Righteous\Documents\ClassLabProject-master\BlazorSupplier.WebUI\obj\Debug\net8.0\scopedcss\projectbundle\BlazorSupplier.WebUI.bundle.scp.css
+C:\Users\Righteous\Documents\ClassLabProject-master\BlazorSupplier.WebUI\obj\Debug\net8.0\BlazorSupplier.WebUI.dll
+C:\Users\Righteous\Documents\ClassLabProject-master\BlazorSupplier.WebUI\obj\Debug\net8.0\refint\BlazorSupplier.WebUI.dll
+C:\Users\Righteous\Documents\ClassLabProject-master\BlazorSupplier.WebUI\obj\Debug\net8.0\BlazorSupplier.WebUI.pdb
+C:\Users\Righteous\Documents\ClassLabProject-master\BlazorSupplier.WebUI\obj\Debug\net8.0\BlazorSupplier.WebUI.genruntimeconfig.cache
+C:\Users\Righteous\Documents\ClassLabProject-master\BlazorSupplier.WebUI\obj\Debug\net8.0\ref\BlazorSupplier.WebUI.dll
+C:\Users\Righteous\Documents\ClassLabProject-master\BlazorSupplier.WebUI\obj\Debug\net8.0\scopedcss\Components\Pages\Login.razor.rz.scp.css
+C:\Users\Philly_Kay\Desktop\PHILIPA'S ASSIGNMENT\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Philly_Kay\Desktop\PHILIPA'S ASSIGNMENT\bin\Debug\net8.0\appsettings.json
+C:\Users\Philly_Kay\Desktop\PHILIPA'S ASSIGNMENT\bin\Debug\net8.0\BlazorSupplier.WebUI.staticwebassets.runtime.json
+C:\Users\Philly_Kay\Desktop\PHILIPA'S ASSIGNMENT\bin\Debug\net8.0\BlazorSupplier.WebUI.exe
+C:\Users\Philly_Kay\Desktop\PHILIPA'S ASSIGNMENT\bin\Debug\net8.0\BlazorSupplier.WebUI.deps.json
+C:\Users\Philly_Kay\Desktop\PHILIPA'S ASSIGNMENT\bin\Debug\net8.0\BlazorSupplier.WebUI.runtimeconfig.json
+C:\Users\Philly_Kay\Desktop\PHILIPA'S ASSIGNMENT\bin\Debug\net8.0\BlazorSupplier.WebUI.dll
+C:\Users\Philly_Kay\Desktop\PHILIPA'S ASSIGNMENT\bin\Debug\net8.0\BlazorSupplier.WebUI.pdb
+C:\Users\Philly_Kay\Desktop\PHILIPA'S ASSIGNMENT\obj\Debug\net8.0\BlazorSupplier.WebUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Philly_Kay\Desktop\PHILIPA'S ASSIGNMENT\obj\Debug\net8.0\BlazorSupplier.WebUI.AssemblyInfoInputs.cache
+C:\Users\Philly_Kay\Desktop\PHILIPA'S ASSIGNMENT\obj\Debug\net8.0\BlazorSupplier.WebUI.AssemblyInfo.cs
+C:\Users\Philly_Kay\Desktop\PHILIPA'S ASSIGNMENT\obj\Debug\net8.0\BlazorSupplier.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\Philly_Kay\Desktop\PHILIPA'S ASSIGNMENT\obj\Debug\net8.0\BlazorSupplier.WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Philly_Kay\Desktop\PHILIPA'S ASSIGNMENT\obj\Debug\net8.0\BlazorSupplier.WebUI.sourcelink.json
+C:\Users\Philly_Kay\Desktop\PHILIPA'S ASSIGNMENT\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Philly_Kay\Desktop\PHILIPA'S ASSIGNMENT\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Philly_Kay\Desktop\PHILIPA'S ASSIGNMENT\obj\Debug\net8.0\staticwebassets\msbuild.BlazorSupplier.WebUI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Philly_Kay\Desktop\PHILIPA'S ASSIGNMENT\obj\Debug\net8.0\staticwebassets\msbuild.build.BlazorSupplier.WebUI.props
+C:\Users\Philly_Kay\Desktop\PHILIPA'S ASSIGNMENT\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BlazorSupplier.WebUI.props
+C:\Users\Philly_Kay\Desktop\PHILIPA'S ASSIGNMENT\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BlazorSupplier.WebUI.props
+C:\Users\Philly_Kay\Desktop\PHILIPA'S ASSIGNMENT\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Philly_Kay\Desktop\PHILIPA'S ASSIGNMENT\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\Philly_Kay\Desktop\PHILIPA'S ASSIGNMENT\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\Philly_Kay\Desktop\PHILIPA'S ASSIGNMENT\obj\Debug\net8.0\scopedcss\Components\Pages\Login.razor.rz.scp.css
+C:\Users\Philly_Kay\Desktop\PHILIPA'S ASSIGNMENT\obj\Debug\net8.0\scopedcss\bundle\BlazorSupplier.WebUI.styles.css
+C:\Users\Philly_Kay\Desktop\PHILIPA'S ASSIGNMENT\obj\Debug\net8.0\scopedcss\projectbundle\BlazorSupplier.WebUI.bundle.scp.css
+C:\Users\Philly_Kay\Desktop\PHILIPA'S ASSIGNMENT\obj\Debug\net8.0\BlazorSupplier.WebUI.dll
+C:\Users\Philly_Kay\Desktop\PHILIPA'S ASSIGNMENT\obj\Debug\net8.0\refint\BlazorSupplier.WebUI.dll
+C:\Users\Philly_Kay\Desktop\PHILIPA'S ASSIGNMENT\obj\Debug\net8.0\BlazorSupplier.WebUI.pdb
+C:\Users\Philly_Kay\Desktop\PHILIPA'S ASSIGNMENT\obj\Debug\net8.0\BlazorSupplier.WebUI.genruntimeconfig.cache
+C:\Users\Philly_Kay\Desktop\PHILIPA'S ASSIGNMENT\obj\Debug\net8.0\ref\BlazorSupplier.WebUI.dll

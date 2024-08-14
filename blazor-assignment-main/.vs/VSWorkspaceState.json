@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin\\Debug",
+    "\\bin\\Release",
+    "\\Components",
+    "\\Components\\Pages",
+    "\\Properties"
+  ],
+  "SelectedNode": "\\BlazorSupplier.WebUI.csproj",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,104 @@
+﻿@page "/"
+@inject NavigationManager Navigation
+
+
+    <title>Signin</title>
+
+    <style>
+        
+
+        .form-signin {
+            width: 100%;
+            max-width: 330px;
+            padding: 15px;
+            margin: auto;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .form-signin img {
+            margin-bottom: 20px;
+        }
+
+        .form-signin h1 {
+            font-size: 24px;
+            font-weight: normal;
+            margin-bottom: 20px;
+        }
+
+        .form-signin label {
+            display: block;
+            margin-bottom: 5px;
+            text-align: left;
+            font-size: 14px;
+        }
+
+        .form-signin input[type="email"],
+        .form-signin input[type="password"] {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+
+        .form-signin .checkbox {
+            margin-bottom: 10px;
+            text-align: left;
+        }
+
+        .form-signin button {
+            width: 100%;
+            padding: 10px;
+            background-color: #007bff;
+            border: none;
+            border-radius: 4px;
+            color: white;
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+        .form-signin button:hover {
+            background-color: #0056b3;
+        }
+
+        .form-signin p {
+            margin-top: 20px;
+            color: #999;
+            font-size: 14px;
+        }
+    </style>
+
+<body>
+<form class="form-signin" action="/home">
+    <img class="mb-4" src="logo.png" alt="" width="72" height="72">
+    <h1 class="h3 mb-3 font-weight-normal">Please sign in</h1>
+    <label for="inputEmail">Email address</label>
+    <input type="email" id="inputEmail" placeholder="Email address" required autofocus>
+    <label for="inputPassword">Password</label>
+    <input type="password" id="inputPassword" placeholder="Password" required>
+    <div class="checkbox mb-3">
+        <label>
+            <input type="checkbox" value="remember-me"> Remember me
+        </label>
+    </div>
+    <button type="submit" @onclick="Authenticate">Sign in</button>
+    <p class="mt-5 mb-3 text-muted">&copy; 2017-2018</p>
+</form>
+</body>
+
+
+@code {
+    string email;
+    string password;
+    void Authenticate()
+    {
+        if (email == "admin@umat.st.gh" && password == "admin")
+        {
+        Navigation.NavigateTo("/home");
+        }
+        
+    }
+}
